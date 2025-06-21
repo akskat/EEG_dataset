@@ -1,0 +1,42 @@
+BrainVision Core Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=Person3Recording2.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20250424161502301523
+Mk2=Stimulus,START,5091,1,0
+Mk3=Stimulus,REST,10151,1,0
+Mk4=Stimulus,IMAGERY_RIGHT,15211,1,0
+Mk5=Stimulus,REST,20281,1,0
+Mk6=Stimulus,MOVE_LEFT,25341,1,0
+Mk7=Stimulus,REST,30421,1,0
+Mk8=Stimulus,MOVE_RIGHT,35501,1,0
+Mk9=Stimulus,REST,40571,1,0
+Mk10=Stimulus,IMAGERY_LEFT,45641,1,0
+Mk11=Stimulus,REST,50711,1,0
+Mk12=Stimulus,IMAGERY_BOTH,55781,1,0
+Mk13=Stimulus,MOVE_BOTH,60841,1,0
+Mk14=Stimulus,REST,65901,1,0
+Mk15=Stimulus,IMAGERY_LEFT,70951,1,0
+Mk16=Stimulus,REST,76021,1,0
+Mk17=Stimulus,MOVE_RIGHT,81091,1,0
+Mk18=Stimulus,REST,86151,1,0
+Mk19=Stimulus,IMAGERY_BOTH,91221,1,0
+Mk20=Stimulus,REST,96281,1,0
+Mk21=Stimulus,MOVE_LEFT,101351,1,0
+Mk22=Stimulus,REST,106421,1,0
+Mk23=Stimulus,IMAGERY_RIGHT,111491,1,0
+Mk24=Stimulus,REST,116541,1,0
+Mk25=Stimulus,MOVE_BOTH,121611,1,0
+Mk26=Stimulus,REST,126671,1,0
+Mk27=Stimulus,IMAGERY_LEFT,131731,1,0
+Mk28=Stimulus,REST,136791,1,0
+Mk29=Stimulus,MOVE_RIGHT,141851,1,0
+Mk30=Stimulus,REST,146931,1,0
+Mk31=Stimulus,END,152001,1,0
